@@ -148,7 +148,7 @@ while loop == 1:
                     print("You continue.")
                     print("The sunlight from the setting sun reflects into your eyes.")
                     print("In the middle of the lake the light catches on a crystal.")
-                    print("Type 1 to swim to the crystal.")
+                    input("Type 1 to swim to the crystal.")
                     if arm_lost == True:
                         print("Swimming with one arm is challenging, but possible.")
                         input("Type 1 to grab the crystal. ")
